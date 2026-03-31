@@ -11,7 +11,7 @@
 
 - 🔭 **Currently working on** — End-to-end QA for an Android EdTech platform at **Lead Group**, covering API testing, JMeter performance testing, Firebase Crashlytics monitoring, and AI-assisted test case generation
 - 👥 **Looking to collaborate on** — QA projects, performance testing frameworks, API test suites, and open source testing tools
-- 🌱 **Currently learning** — Selenium WebDriver, Python for test automation, and AI-powered testing tools like Testim and Applitools
+- 🌱 **Currently learning** — Performance Engineering, and AI-powered testing tools.
 - 💬 **Ask me about** — Manual Testing, API Testing (Postman), Performance Testing (JMeter), Firebase Crashlytics, AI-assisted QA, MySQL data validation
 - ⚡ **Fun fact** — I built AI-powered Excel calculators to catch math logic bugs **before a single line of code was written** — and it worked every single sprint!
 
