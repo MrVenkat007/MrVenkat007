@@ -59,7 +59,6 @@
 | ✅ Test Coverage | **99%** across 5+ concurrent projects |
 | ⚡ Defect escape rate reduction | **45%** through shift-left practices |
 | 🚀 Team efficiency improvement | **35%** through mentoring & AI tooling |
-| 📊 Response time improvement | **30%** via JMeter performance testing |
 | 🏅 Tech Star of the Month | **3x** — Leadership Boulevard |
 | 🏅 Team of the Month | **4x** — QA Team |
 
