@@ -85,7 +85,7 @@
   <a href="mailto:venkat.addala121@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/venkat911031" target="_blank">
+  <a href="https://github.com/MrVenkat007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -93,7 +93,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkat911031&label=Profile%20Views&color=00C896&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MrVenkat007&label=Profile%20Views&color=00C896&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"><i>"Quality is not an act, it is a habit." — Aristotle</i></p>
